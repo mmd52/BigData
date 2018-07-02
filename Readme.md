@@ -13,5 +13,5 @@ The project members are
 
 Note: *3X* project uses only Python 3.X and above for analysis
 
-* [PPT] (https://github.com/mmd52/BigData/blob/master/4X_BigData.pdf)
-* [Code] (https://github.com/mmd52/BigData/blob/master/Final.ipynb)
+* [PPT](https://github.com/mmd52/BigData/blob/master/4X_BigData.pdf)
+* [Code](https://github.com/mmd52/BigData/blob/master/Final.ipynb)
