@@ -1,17 +1,29 @@
-# 4X Big Data
+# What's Cooking?
 
-4X Big data is a big data project created by 4 students completing their Masters in Data Science at the Bologna Business School
+Whats cooking?
+>An interesting data set from kaggle where we have each row as a unique dish belonging to one cuisine and and each dish with its set of ingredients.
+```
+For example -
+{
+"id": 10259,
+"cuisine": "greek",
+"ingredients": [
+"romaine lettuce",
+"black olives",
+"grape tomatoes",
+"garlic",
+"pepper",
+"purple onion",
+"seasoning",
+"garbanzo beans",
+"feta cheese crumbles"
+]
+}
+```
+There are 20 ingredients here, so based on the ingredients can we predict the cuisine? 
 
-> The topic for 4X is What's Cooking?
->The data has been taken from [What's Cooking? Kaggle](https://www.kaggle.com/c/whats-cooking-kernels-only) 
+* The data has been taken from [What's Cooking? Kaggle](https://www.kaggle.com/c/whats-cooking-kernels-only) 
 
-The project members are  
-  - Patricia Londono
-  - Abraham Chandy
-  - Fernanda De Oliveira Guimaraes
-  - Mohammed Topiwalla
+*Note: the project uses only Python 3.X and above for analysis*
 
-Note: *3X* project uses only Python 3.X and above for analysis
-
-* [PPT](https://github.com/mmd52/BigData/blob/master/4X_BigData.pdf)
 * [Code](https://github.com/mmd52/BigData/blob/master/Final.ipynb)
